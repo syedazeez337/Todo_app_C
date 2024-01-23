@@ -1,7 +1,9 @@
 #include "app.h"
 
-// hello function
-void hello()
+// Welcome Message
+void welcomeMsg()
 {
-    printf("Hello, world!\n");
+    printf("\n\t****************************************\n");
+    printf("\t**         Todo List Application      **\n");
+    printf("\t****************************************\n");
 }
